@@ -1,3 +1,10 @@
+//El codigo debe tener una entrada de un jugador 1 que indique que escoje de piedra, papel o tijera por medio del uso de Scanner
+//El codigo debe tener una entrada del jugador 2 que indique su eleccion de piedra papel o tijera por medio del Scanner
+//Se comienza con condicionales if else primero estableciendo la condicion del empate
+//despues se declara una variable int g que indica al ganador y se establece un swich con los diferentes casos y sus condiciones
+//el codigo evaluara los diferentes casos y las diferentes condiciones segun la eleccion dada por cada jugador y establecera al ganador en la variable g
+//Finalmente se imprime el ganador.
+
 package com.generation;
 
 import java.util.Scanner; //Añade import Scanner
